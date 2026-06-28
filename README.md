@@ -64,26 +64,26 @@ I love building intelligent applications and transforming data into meaningful i
 ## 📂 Projects
 
 ### 🏥 AI Hospital Assistant – Voice Appointment System
-**FastAPI · LLM APIs · SQLite** | `2025`
-- Built an AI voice assistant for automated hospital appointment booking using conversational AI.
-- Developed FastAPI backend with real-time voice processing and **multi-language support**.
-- Integrated database and email notifications for seamless scheduling and confirmations.
+**FastAPI · Groq LLaMA 3.3 · SQLite** | [GitHub](https://github.com/thepunitchaudhary/ai-hospital-assistant)
+- Built an AI voice assistant ("Sarah") for automated hospital appointment booking using conversational AI.
+- Developed FastAPI backend with browser-based speech recognition and **multilingual support** (English, Hindi, Telugu).
+- Integrated SQLite database and automated email confirmations for seamless scheduling.
 
 ---
 
 ### 🍱 FoodLink AI – Smart Food Donation Platform
-**Python · AI** | [GitHub](#) · [Live Demo](#)
-- Developed an AI-driven platform connecting restaurants with NGOs, managing **500+ donation records**.
-- Optimized food distribution workflows to reduce wastage and improve efficiency.
-- Enabled real-time coordination between donors and volunteers.
+**React · FastAPI · MongoDB · Scikit-learn** | [GitHub](https://github.com/thepunitchaudhary/foodlink-ai-smart-food-donation-platform) · [Live Demo](https://foodlink-ai-smart-food-donation-pla.vercel.app)
+- Built a full-stack platform connecting restaurants with NGOs to reduce food waste, with role-based dashboards for restaurants, NGOs, and admins.
+- Integrated Leaflet map visualization for location-aware donation discovery and pickup coordination.
+- Added a RandomForest ML model to flag high-demand donation areas based on historical data.
 
 ---
 
 ### 🌦️ Weather Forecasting & Air Quality Dashboard
-**Power BI** | [GitHub](#)
-- Designed interactive dashboards analyzing **1000+ weather and AQI data points**.
-- Performed data cleaning and visualization to identify pollution trends.
-- Delivered business-ready insights for data-driven decision-making.
+**Power BI · DAX** | [GitHub](https://github.com/thepunitchaudhary/powerbi-weather-dashboard)
+- Designed an interactive dashboard covering current conditions, 7-day forecasts, and Air Quality Index (AQI).
+- Modeled and structured weather/AQI data using DAX for trend analysis.
+- Delivered a clean, decision-ready view of temperature, humidity, wind, and visibility metrics.
 
 ---
 
@@ -126,7 +126,13 @@ Dr. Ram Manohar Lohia Avadh University, Ayodhya, UP *(Aug 2024 – Aug 2026)*
 
 | Certificate | Issuer |
 |-------------|--------|
-| 🧠 GenAI Powered Data Analytics Job Simulation | TATA (Forage) |
+| 📈 Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University (Coursera) |
+| 🤖 Google AI Essentials | Google |
+| 🧑‍💼 Generative AI for Executives | Amazon Web Services (AWS) |
+| 💡 Introduction to Generative AI – Art of the Possible | Amazon Web Services (AWS) |
+| 🧠 Fundamentals of Machine Learning and Artificial Intelligence | Amazon Web Services (AWS) |
+| 📊 Basics of Data Analytics | PW (PhysicsWallah) × Microsoft |
+| 🏭 GenAI Powered Data Analytics Job Simulation | Tata (Forage) |
 | 💬 ChatGPT Prompt Engineering for Developers | DeepLearning.AI |
 | ☁️ Oracle Cloud Infrastructure Data Science Professional 2025 | Oracle |
 | 🐍 Python Essentials Certification | Scaler |
