@@ -72,7 +72,7 @@ I love building intelligent applications and transforming data into meaningful i
 ---
 
 ### 🍱 FoodLink AI – Smart Food Donation Platform
-**React · FastAPI · MongoDB · Scikit-learn** | [GitHub](https://github.com/thepunitchaudhary/foodlink-ai-smart-food-donation-platform) · [Live Demo](https://foodlink-ai-smart-food-donation-pla.vercel.app)
+**React · FastAPI · MongoDB · Scikit-learn** | [GitHub](https://github.com/thepunitchaudhary/foodlink-ai-smart-food-donation-platform) ·
 - Built a full-stack platform connecting restaurants with NGOs to reduce food waste, with role-based dashboards for restaurants, NGOs, and admins.
 - Integrated Leaflet map visualization for location-aware donation discovery and pickup coordination.
 - Added a RandomForest ML model to flag high-demand donation areas based on historical data.
